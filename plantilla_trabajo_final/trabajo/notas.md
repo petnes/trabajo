@@ -27,8 +27,8 @@ Por la última instrucción recibida (plazo de entrega de esa misma noche) se hi
 - Rayas y guiones medios: 0. Preguntas retóricas: 0.
 - Expresiones prohibidas de CLAUDE.md: 0. "Además": 0. "Clave": 1, en "competencias clave", que es el término legal. "Conviene": 2, una de ellas dentro de la marca "Aquí conviene distinguir".
 - No hay dos párrafos seguidos que empiecen igual.
-- Frases: media de 22,6 palabras con desviación de 11,9; 94 frases cortas (8 palabras o menos) y 92 largas (35 o más).
-- Párrafos seguidos de longitud casi idéntica (5 palabras de diferencia o menos): 5, frente a 19 de la primera versión reescrita.
+- Frases: media de 22,6 palabras con desviación de 11,9; 91 frases cortas (8 palabras o menos) y 90 largas (35 o más).
+- Párrafos seguidos de longitud casi idéntica (5 palabras de diferencia o menos): 6, frente a 19 de la primera versión reescrita.
 - Propiedades del archivo: autor y "modificado por" vacíos. Sin comentarios ni control de cambios. Los datos del alumno de la portada se mantienen tal como venían.
 
 ## Requisitos y criterios de la rúbrica que ahora se cumplen
