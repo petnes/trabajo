@@ -11,7 +11,7 @@ CD1 y CD3 se trabajan al buscar y contrastar información técnica, y la formula
 Con esta situación de aprendizaje arranca el proyecto que organiza el curso. Se centra en la fase de análisis, la más difícil de sostener porque no da un resultado tangible a corto plazo. Lo habitual es que el alumnado salte enseguida a la solución técnica que ya conoce, y entonces el problema queda mal definido y los errores salen más tarde, cuando corregirlos cuesta más. La SA está pensada para mantener al grupo en el análisis el tiempo necesario.
 
 [P841] (celda de tabla)
-El encargo se presenta en la propia huerta y la comisión responsable hace de cliente. No es un detalle menor, porque así la necesidad llega de quien la tiene y no del profesorado. A partir de ahí hay que pasar de una queja dicha en lenguaje cotidiano (las plantas se secan porque nadie riega por la tarde) a un pliego de requisitos que se pueda comprobar. Lo que se aprende sobre todo en esta situación es a distinguir entre necesidad y requisito.
+El encargo se presenta en la propia huerta y la comisión responsable hace de cliente. No es un detalle menor. Así la necesidad llega de quien la tiene y no del profesorado. A partir de ahí hay que pasar de una queja dicha en lenguaje cotidiano (las plantas se secan porque nadie riega por la tarde) a un pliego de requisitos que se pueda comprobar. Lo que se aprende sobre todo en esta situación es a distinguir entre necesidad y requisito.
 
 [P842] (celda de tabla)
 En la segunda parte entra la indagación técnica. Los equipos buscan documentación sobre riego por goteo y por aspersión, temporizadores mecánicos, programadores comerciales y sistemas con control por humedad, y la contrastan antes de decidir. La comparación se vuelca en una matriz de decisión con criterios ponderados. La matriz obliga a dejar claro qué se valora y con qué peso, y luego sirve para defender la elección ante el cliente.
@@ -50,4 +50,4 @@ Al terminar cada situación de aprendizaje, cada estudiante valora de uno a cuat
 El profesorado comprueba esta lista por observación directa, y quien la supera puede usar de forma autónoma el equipamiento correspondiente. Los indicadores son dicotómicos y se registran una vez por estudiante, aunque se revisan al empezar cada situación de aprendizaje con trabajo de taller.
 
 [P1249]
-El glosario se va construyendo con el alumnado conforme los términos aparecen en el proyecto, y al final se incorpora a la memoria. Aquí se recoge solo el núcleo con el que empieza el curso. Cada equipo lo amplía con las entradas que pida su propia solución técnica.
+El glosario se va construyendo con el alumnado conforme los términos aparecen en el proyecto, y al final se incorpora a la memoria. Aquí se recoge solo el núcleo con el que empieza el curso. Cada equipo lo amplía con las entradas que pida su solución técnica.
