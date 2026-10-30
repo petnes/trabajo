@@ -56,7 +56,7 @@ Los recursos se organizan en cuatro categorías. Los espacios son el aula taller
 En la tabla 7 se recogen los recursos digitales. Todos funcionan en el navegador desde los ordenadores del centro, lo que es importante si en el aula de informática no se pueden instalar programas, y permiten el trabajo colaborativo.
 
 [P550]
-En la tabla 8 aparece el material específico, con un presupuesto calculado para que cada uno de los seis equipos construya su propio prototipo, más el material común de la instalación definitiva. Las cantidades son orientativas y se pueden ajustar según lo que ya tenga el departamento. No se cuenta el instrumental habitual del aula taller, como los polímetros, la herramienta manual, la estación de soldadura o la impresora 3D.
+El material específico se detalla en la tabla 8, con un presupuesto calculado para que cada uno de los seis equipos construya su propio prototipo, más el material común de la instalación definitiva. Las cantidades son orientativas y se pueden ajustar según lo que ya tenga el departamento. No se cuenta el instrumental habitual del aula taller, como los polímetros, la herramienta manual, la estación de soldadura o la impresora 3D.
 
 [P621]
 El total, 504 €, es asumible con la dotación anual de un departamento de Tecnología, y baja si se prescinde de la ampliación fotovoltaica o si los equipos comparten la electroválvula durante los ensayos. Una parte del material se queda instalada en la huerta y se amortiza en los cursos siguientes, los componentes electrónicos vuelven al almacén del departamento y se reutilizan.
