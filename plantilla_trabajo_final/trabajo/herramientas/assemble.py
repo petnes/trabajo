@@ -201,6 +201,11 @@ for e in to_remove:
         continue
     e.getparent().remove(e)
 toc9 = idmap[80]
+# la última entrada del índice lleva el cierre del campo TOC: se traslada a la entrada anterior
+for r in list(toc9.iter(qn('w:r'))):
+    fc = r.find(qn('w:fldChar'))
+    if fc is not None and fc.get(qn('w:fldCharType')) == 'end':
+        idmap[79].append(r)
 toc9.getparent().remove(toc9)
 
 # --- 4. Fila nueva en la tabla 10 para el criterio 2.1 ---

@@ -14,4 +14,12 @@ for tag,order in (('rPr',RPR),('pPr',PPR)):
         if known!=sorted(known) or len(set(names))!=len(names):
             bad+=1
             if bad<=8: print(tag, names)
+types=[fc.get(W+'fldCharType') for fc in root.iter(W+'fldChar')]
+if types.count('begin')!=types.count('end') or types.count('separate')>types.count('begin'):
+    bad+=1
+    print('campos desequilibrados:', {t: types.count(t) for t in set(types)})
+bs=[b.get(W+'id') for b in root.iter(W+'bookmarkStart')]; be=[b.get(W+'id') for b in root.iter(W+'bookmarkEnd')]
+if sorted(bs)!=sorted(be):
+    bad+=1
+    print('marcadores desequilibrados')
 print('elementos fuera de orden o duplicados:', bad)
