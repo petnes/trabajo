@@ -28,7 +28,7 @@ El currículo plantea la materia desde una perspectiva competencial y muy práct
 Que Tecnología sea optativa en cuarto tiene una consecuencia organizativa. El grupo suele ser heterogéneo. Junta a estudiantes que se orientan al bachillerato científico-tecnológico con otros que piensan en la formación profesional o que eligen la materia porque les atrae el trabajo práctico. En una enseñanza expositiva esa mezcla acaba siendo un obstáculo. En un proyecto con tareas diferenciadas y niveles de profundización graduables se puede manejar sin grandes problemas.
 
 [P160]
-En este apartado se concreta la propuesta. El contexto va primero. Muchas decisiones metodológicas y organizativas no se entienden sin conocer el centro y el grupo. Después vienen los elementos prescriptivos del currículo y la secuencia de situaciones de aprendizaje, y al final el sistema de evaluación.
+A partir de ese marco se concreta la propuesta. El contexto va primero. Muchas decisiones metodológicas y organizativas no se entienden sin conocer el centro y el grupo. Después vienen los elementos prescriptivos del currículo y la secuencia de situaciones de aprendizaje, y al final el sistema de evaluación.
 
 [P162]
 La programación está pensada para un instituto público de Educación Secundaria de la comarca de Rioja Alavesa, en el territorio histórico de Álava. Su nombre y cualquier dato que permita identificarlo se omiten, como exige la normativa de protección de datos. El centro imparte los cuatro cursos de ESO y bachillerato y tiene unos 350 estudiantes. Ofrece el modelo lingüístico D, así que Tecnología se enseña en euskera, aunque la terminología técnica se trabaja en euskera y en castellano, con algún término de uso internacional en inglés.
