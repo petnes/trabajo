@@ -17,7 +17,8 @@ Por la última instrucción recibida (plazo de entrega de esa misma noche) se hi
 - La prosa se dividió en siete bloques (resumen e introducción, marco teórico, marco legal y contexto, metodología a recursos, diversidad y evaluación, conclusiones, textos de los anexos). Cada bloque se reescribió por separado en `trabajo/apartados/` con las pautas de las fases 3 y 4 y de CLAUDE.md. Los archivos guardan el texto con la marca `[P<n>]` del párrafo del borrador al que sustituye.
 - Después se hizo una pasada de conjunto, porque los bloques se escribieron por separado. Se bajaron los "porque" de 42 a 26 y las muletillas "propio/propia" de 26 a 15, y se metieron algunos "por ejemplo" y "es decir" donde el concepto se lleva al caso. También se cambiaron los arranques de párrafos seguidos que empezaban igual.
 - Al final, una lectura independiente hecha como tutor desconfiado señaló 15 pasajes que aún sonaban a máquina (antítesis de efecto, frases sentencia, simetrías). Se aplicaron 12 y se descartaron 3 que empeoraban el ritmo o la claridad. Una segunda lectura independiente, centrada en esqueletos repetidos, giros de plantilla y el inglés del abstract, propuso otros 12 cambios. Se aplicaron 11 y se mantuvo la marca "Más interesante resulta el hecho de que...", que es una de las pedidas expresamente.
-- Las seis marcas de pensamiento se repartieron entre bloques para que ninguna se repita. Se usan cuatro, una vez cada una.
+- Última pasada, a petición expresa: los siete bloques se reescribieron con el modelo Fable para que la prosa tuviera una voz más personal y menos pulida (frases muy cortas mezcladas con otras largas, decisiones explicadas con motivos prácticos, incisos y algún matiz prudente). El Word solo se sustituyó tras pasar los controles de páginas, formato y estilo.
+- Las seis marcas de pensamiento se repartieron entre bloques para que ninguna se repita. Se usan las seis, una vez cada una.
 - Para regenerar el Word tras cambiar algún archivo de `trabajo/apartados/` basta con ejecutar `bash trabajo/herramientas/montar.sh` desde `plantilla_trabajo_final`. El script monta el documento, recalcula el índice, valida el XML y pasa el control de estilo. Las referencias están en `trabajo/herramientas/referencias.txt`, con la cursiva marcada entre asteriscos.
 - El Word se monta sobre el propio borrador: se sustituye el texto párrafo a párrafo y se mantienen portada, estilos, márgenes, encabezados, pies, tablas, figuras y anexos.
 - Voz: un alumno de máster que se ha preparado bien el trabajo. El registro es impersonal en todo el texto, como pide el seminario III. La primera persona, prudente, aparece solo en la reflexión final de las conclusiones (cuatro veces y con fórmulas distintas).
@@ -27,15 +28,15 @@ Por la última instrucción recibida (plazo de entrega de esa misma noche) se hi
 - Rayas y guiones medios: 0. Preguntas retóricas: 0.
 - Expresiones prohibidas de CLAUDE.md: 0. "Además": 0. "Clave": 1, en "competencias clave", que es el término legal. "Conviene": 2, una de ellas dentro de la marca "Aquí conviene distinguir".
 - No hay dos párrafos seguidos que empiecen igual.
-- Frases: media de 22,6 palabras con desviación de 11,9; 91 frases cortas (8 palabras o menos) y 90 largas (35 o más).
-- Párrafos seguidos de longitud casi idéntica (5 palabras de diferencia o menos): 6, frente a 19 de la primera versión reescrita.
+- Frases: media de 21,3 palabras con desviación de 11,8; 111 frases cortas (8 palabras o menos) y 88 largas (35 o más).
+- Párrafos seguidos de longitud casi idéntica (5 palabras de diferencia o menos): 16. Se puede revisar en una relectura, aunque no afecta a la lectura.
 - Propiedades del archivo: autor y "modificado por" vacíos. Sin comentarios ni control de cambios. Los datos del alumno de la portada se mantienen tal como venían.
 
 ## Requisitos y criterios de la rúbrica que ahora se cumplen
 
 | Requisito o criterio | Antes | Ahora |
 |---|---|---|
-| Extensión de 50 a 75 páginas con anexos (guía docente 2.3) | 80 páginas | 74 páginas (renderizado de control) |
+| Extensión de 50 a 75 páginas con anexos (guía docente 2.3) | 80 páginas | 73 páginas (renderizado de control) |
 | Formato: títulos de apartado a 12 en negrita, subapartados a 11,5, tercer nivel a 11 (guía 2.3) | 18 y 16 | 12, 11,5 y 11; cuerpo a 11 con interlineado 1,5, Arial |
 | Índice del Anexo I de la guía | Completo | Completo y con páginas recalculadas |
 | Portada con los ocho datos | Sí | Sin cambios |
@@ -60,7 +61,7 @@ Por la última instrucción recibida (plazo de entrega de esa misma noche) se hi
    - En 3.6 se dice ahora que la tabla 5 llega hasta la defensa pública.
    - El taladro se añade a la lista de equipos que exigen la lista de control de seguridad, como ya decía el anexo II.
 
-## Extensión final por apartados (renderizado de control, 74 páginas)
+## Extensión final por apartados (renderizado de control, 73 páginas)
 
 | Apartado | Páginas |
 |---|---|
@@ -68,9 +69,9 @@ Por la última instrucción recibida (plazo de entrega de esa misma noche) se hi
 | 1. Introducción (1.1 y 1.2) | 6-10 |
 | 2. Marco teórico y legal | 11-18 |
 | 3. Programación didáctica | 19-46 |
-| 4. Conclusiones | 47-50 |
-| 5. Referencias bibliográficas y normativas | 51-53 |
-| 6. Anexos I a VIII | 54-74 |
+| 4. Conclusiones | 47-49 |
+| 5. Referencias bibliográficas y normativas | 50-53 |
+| 6. Anexos I a VIII | 54-73 |
 
 Los anexos siguen pasando de las 5-10 páginas que la guía recomienda (es una orientación, no un límite). Si el tutor lo pide, se puede quitar también el anexo VIII (glosario, poco más de una página), pero entonces habría que retocar 3.5 y la presentación de los anexos, que lo citan.
 
