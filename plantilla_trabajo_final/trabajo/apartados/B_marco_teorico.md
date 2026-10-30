@@ -41,7 +41,7 @@ Después está el tiempo. La programación fija hitos con fecha y entregable y r
 La evaluación condiciona la forma de trabajar. Si la nota depende del producto acabado, el alumnado se centra en el resultado visible y tiende a dejar las tareas difíciles a los compañeros más competentes. Valorar también el proceso, a través del cuaderno y de las revisiones de hito, compensa ese incentivo, o al menos lo reduce bastante.
 
 [P130]
-El papel del profesorado cambia. Quien enseña pasa a acompañar y a hacer buenas preguntas, y tiene que acostumbrarse a la incertidumbre. Ramos et al. (2025) y Piñan et al. (2024) coinciden en que la formación docente y el tiempo de coordinación son factores críticos, sobre todo cuando participan varias materias.
+La quinta condición se refiere al profesorado, que pasa a acompañar y a hacer buenas preguntas, y tiene que acostumbrarse a la incertidumbre. Ramos et al. (2025) y Piñan et al. (2024) coinciden en que la formación docente y el tiempo de coordinación son factores críticos, sobre todo cuando participan varias materias.
 
 [P131]
 A estas condiciones se suma una dificultad propia de los proyectos técnicos, el fallo material. Un sensor mal calibrado, una soldadura fría, una conexión floja o un umbral mal elegido dan resultados frustrantes. Pero en la fase de validación el error es parte de lo que se enseña, siempre que el diseño deje tiempo para diagnosticarlo y corregirlo, y por eso la programación le reserva sesiones y lo tiene en cuenta al evaluar.
@@ -55,7 +55,7 @@ A veces se da por hecho que quien ha crecido rodeado de dispositivos digitales l
 [P135]
 El sistema de riego funciona como un modelo reducido de cualquier sistema automatizado. Un sensor convierte una magnitud física en una señal eléctrica, y con ella un programa decide, según una regla, si el actuador debe intervenir. Al construirlo, el alumnado se encuentra con preguntas que se plantean igual en sistemas a gran escala, como qué se mide y qué queda fuera, quién fija los umbrales, qué pasa si el sensor falla o qué se registra del funcionamiento.
 
-En la versión conectada, en la que los datos viajan a un servicio en línea, aparece otra cuestión, dónde se guardan y quién los controla, que corresponde al bloque de tecnología sostenible y a la competencia digital.
+En la versión conectada, en la que los datos viajan a un servicio en línea, hay que preguntarse también dónde se guardan y quién los controla. Esta cuestión corresponde al bloque de tecnología sostenible y a la competencia digital.
 
 [P136]
 En el currículo aparece también la iniciación a la inteligencia artificial y al tratamiento masivo de datos, con la indicación de trabajarlos con sentido crítico y ético. Desarrollar sistemas de aprendizaje automático sería desproporcionado para el nivel, pero el proyecto sirve de base para una discusión informada. Aquí conviene distinguir entre una regla explícita, que el alumnado escribe y puede revisar línea a línea, y un modelo estadístico que ajusta sus parámetros a partir de los datos. Al compararlos se ve qué se gana en capacidad de adaptación y qué se pierde en trazabilidad, y la discusión tiene más recorrido porque se apoya en un sistema que los estudiantes han programado.
@@ -70,7 +70,7 @@ La huerta escolar tiene una larga tradición pedagógica, sobre todo en educaci�
 El caso de Rioja Alavesa añade rasgos propios. En esta comarca de tradición vitivinícola, la tecnificación del riego y las estaciones agroclimáticas forman parte de la actividad económica habitual. El proyecto reproduce a pequeña escala procedimientos que el alumnado puede ver en explotaciones cercanas, lo que permite organizar visitas o entrevistas con profesionales del sector. Con esa continuidad entre aula y entorno productivo, el encargo gana la autenticidad que Thomas (2000) considera constitutiva del ABP.
 
 [P141]
-Queda el efecto sobre la pertenencia. Si el producto queda instalado en el centro y la comunidad lo usa, el alumnado pasa a ser autor de una mejora colectiva. Es de esperar que ese paso del ejercicio evaluado a una contribución que otros reconocen tenga un efecto motivador, y de hecho el currículo da valor a los proyectos tecnológicos de carácter social.
+El proyecto tiene, por último, un efecto sobre el sentido de pertenencia. Si el producto queda instalado en el centro y la comunidad lo usa, el alumnado pasa a ser autor de una mejora colectiva. Es de esperar que ese paso del ejercicio evaluado a una contribución que otros reconocen tenga un efecto motivador, y de hecho el currículo da valor a los proyectos tecnológicos de carácter social.
 
 [P143]
 Una programación por proyectos será inclusiva en la medida en que su diseño prevea la variabilidad del alumnado. Si da por hecho un único perfil de participación, puede incluso aumentar las diferencias. El Diseño Universal para el Aprendizaje (CAST, 2018) ofrece criterios operativos con tres principios, que piden variar la presentación de la información y las formas de acción y expresión, y buscar distintas vías de implicación.
