@@ -16,6 +16,7 @@ Por la última instrucción recibida (plazo de entrega de esa misma noche) se hi
 
 - La prosa se dividió en siete bloques (resumen e introducción, marco teórico, marco legal y contexto, metodología a recursos, diversidad y evaluación, conclusiones, textos de los anexos). Cada bloque se reescribió por separado en `trabajo/apartados/` con las pautas de las fases 3 y 4 y de CLAUDE.md. Los archivos guardan el texto con la marca `[P<n>]` del párrafo del borrador al que sustituye.
 - Después se hizo una pasada de conjunto, porque los bloques se escribieron por separado. Se bajaron los "porque" de 42 a 26 y las muletillas "propio/propia" de 26 a 15, y se metieron algunos "por ejemplo" y "es decir" donde el concepto se lleva al caso. También se cambiaron los arranques de párrafos seguidos que empezaban igual.
+- Al final, una lectura independiente hecha como tutor desconfiado señaló 15 pasajes que aún sonaban a máquina (antítesis de efecto, frases sentencia, simetrías). Se aplicaron 12 y se descartaron 3 que empeoraban el ritmo o la claridad.
 - Las seis marcas de pensamiento se repartieron entre bloques para que ninguna se repita. Se usan cuatro, una vez cada una.
 - El Word se monta sobre el propio borrador: se sustituye el texto párrafo a párrafo y se mantienen portada, estilos, márgenes, encabezados, pies, tablas, figuras y anexos.
 - Voz: un alumno de máster que se ha preparado bien el trabajo. El registro es impersonal en todo el texto, como pide el seminario III. La primera persona, prudente, aparece solo en la reflexión final de las conclusiones (cuatro veces y con fórmulas distintas).
@@ -25,8 +26,8 @@ Por la última instrucción recibida (plazo de entrega de esa misma noche) se hi
 - Rayas y guiones medios: 0. Preguntas retóricas: 0.
 - Expresiones prohibidas de CLAUDE.md: 0. "Además": 0. "Clave": 1, en "competencias clave", que es el término legal. "Conviene": 2, una de ellas dentro de la marca "Aquí conviene distinguir".
 - No hay dos párrafos seguidos que empiecen igual.
-- Frases: media de 22,5 palabras con desviación de 11,9; 96 frases cortas (8 palabras o menos) y 91 largas (35 o más).
-- Párrafos seguidos de longitud casi idéntica (5 palabras de diferencia o menos): 4, frente a 19 de la primera versión reescrita.
+- Frases: media de 22,6 palabras con desviación de 11,9; 94 frases cortas (8 palabras o menos) y 92 largas (35 o más).
+- Párrafos seguidos de longitud casi idéntica (5 palabras de diferencia o menos): 5, frente a 19 de la primera versión reescrita.
 - Propiedades del archivo: autor y "modificado por" vacíos. Sin comentarios ni control de cambios. Los datos del alumno de la portada se mantienen tal como venían.
 
 ## Requisitos y criterios de la rúbrica que ahora se cumplen
