@@ -18,6 +18,7 @@ Por la última instrucción recibida (plazo de entrega de esa misma noche) se hi
 - Después se hizo una pasada de conjunto, porque los bloques se escribieron por separado. Se bajaron los "porque" de 42 a 26 y las muletillas "propio/propia" de 26 a 15, y se metieron algunos "por ejemplo" y "es decir" donde el concepto se lleva al caso. También se cambiaron los arranques de párrafos seguidos que empezaban igual.
 - Al final, una lectura independiente hecha como tutor desconfiado señaló 15 pasajes que aún sonaban a máquina (antítesis de efecto, frases sentencia, simetrías). Se aplicaron 12 y se descartaron 3 que empeoraban el ritmo o la claridad.
 - Las seis marcas de pensamiento se repartieron entre bloques para que ninguna se repita. Se usan cuatro, una vez cada una.
+- Para regenerar el Word tras cambiar algún archivo de `trabajo/apartados/` basta con ejecutar `bash trabajo/herramientas/montar.sh` desde `plantilla_trabajo_final`. El script monta el documento, recalcula el índice, valida el XML y pasa el control de estilo. Las referencias están en `trabajo/herramientas/referencias.txt`, con la cursiva marcada entre asteriscos.
 - El Word se monta sobre el propio borrador: se sustituye el texto párrafo a párrafo y se mantienen portada, estilos, márgenes, encabezados, pies, tablas, figuras y anexos.
 - Voz: un alumno de máster que se ha preparado bien el trabajo. El registro es impersonal en todo el texto, como pide el seminario III. La primera persona, prudente, aparece solo en la reflexión final de las conclusiones (cuatro veces y con fórmulas distintas).
 

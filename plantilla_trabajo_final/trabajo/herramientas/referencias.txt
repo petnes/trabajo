@@ -1,0 +1,37 @@
+# Referencias bibliográficas (orden alfabético). Cursiva entre asteriscos.
+Alba Pastor, C., Sánchez Serrano, J. M. y Zubillaga del Río, A. (2014). *Diseño Universal para el Aprendizaje (DUA). Pautas para su introducción en el currículo*. Universidad Complutense de Madrid.
+Añazco, L., Menares, D., Mamani, S., Espinoza, V. y Patiño, F. (2025). Aprendizaje Basado en Proyectos en el contexto rural. Una experiencia educativa desde las asignaturas de Educación Física, Inglés y Lengua Aymara. *Revista de Estudios y Experiencias en Educación, 24*(53), 356-375.
+Ausubel, D. P. (2002). *Adquisición y retención del conocimiento: una perspectiva cognitiva*. Paidós.
+Blumenfeld, P. C., Soloway, E., Marx, R. W., Krajcik, J. S., Guzdial, M. y Palincsar, A. (1991). Motivating project-based learning: Sustaining the doing, supporting the learning. *Educational Psychologist, 26*(3-4), 369-398. https://doi.org/10.1080/00461520.1991.9653139
+Botella Nicolás, A. M. y Ramos Ramos, P. (2019). Investigación-acción y aprendizaje basado en proyectos. Una revisión bibliográfica. *Perfiles Educativos, 41*(163), 127-141.
+CAST. (2018). *Universal Design for Learning Guidelines version 2.2*. https://udlguidelines.cast.org
+Cobo Gonzales, G. y Valdivia Cañotte, S. M. (2017). *Aprendizaje basado en proyectos*. Pontificia Universidad Católica del Perú, Instituto de Docencia Universitaria. https://repositorio.pucp.edu.pe/items/d95cf11b-ccbd-4777-9b92-ef54b772fbbd
+Dewey, J. (1938). *Experience and education*. Kappa Delta Pi.
+Escarbajal, A. y Martínez, G. (2023). Uso de las metodologías activas en los centros educativos de educación infantil, primaria y secundaria. *International Journal of New Education, 11*, 5-25. https://doi.org/10.24310/IJNE.11.2023.16452
+Hidalgo, D. R. y Ortega-Sánchez, D. (2022). El aprendizaje basado en proyectos: una revisión sistemática de la literatura (2015-2022). *HUMAN Review. International Humanities Review, 14*(6), 1-14. https://www.historicoeagora.net/revHUMAN/article/view/4181
+Kilpatrick, W. H. (1918). The project method. *Teachers College Record, 19*(4), 319-335.
+Kokotsaki, D., Menzies, V. y Wiggins, A. (2016). Project-based learning: A review of the literature. *Improving Schools, 19*(3), 267-277. https://doi.org/10.1177/1365480216659733
+Krajcik, J. S. y Blumenfeld, P. C. (2006). Project-based learning. En R. K. Sawyer (Ed.), *The Cambridge handbook of the learning sciences* (pp. 317-334). Cambridge University Press.
+Larmer, J., Mergendoller, J. y Boss, S. (2015). *Setting the standard for project based learning: A proven approach to rigorous classroom instruction*. ASCD.
+Piñan, M. R. P., Suárez, M. G. E., Sampedro, N. M. V., Almachi, L. P. A. y Jiménez, N. I. A. (2024). El Aprendizaje Basado en Proyectos (ABP) como estrategia didáctica para mejorar el rendimiento académico. https://dialnet.unirioja.es/servlet/articulo?codigo=9726297
+Purković, D. y Prihoda, M. (2020). Differences in the students' achievements between traditional and project-based learning of basic engineering competencies: A quasi-experimental study. En *Proceedings of the 43rd International Convention on Information, Communication and Electronic Technology (MIPRO)* (pp. 1514-1519). IEEE.
+Ramos, J. A. M., Ramos, M. M. M., Menéndez, M. G. F. y Len, J. C. C. (2025). Aprendizaje basado en proyectos (ABP) en educación básica y bachillerato: revisión de su impacto en la motivación y el desempeño estudiantil. *Imaginario Social, 8*(3). https://doi.org/10.59155/is.v8i3.333
+Sánchez, J. (2013). Qué dicen los estudios sobre el Aprendizaje Basado en Proyectos. *Actualidad Pedagógica, 1*(4), 1-4.
+Thomas, J. W. (2000). *A review of research on project-based learning*. The Autodesk Foundation.
+Valle, L. A. C. (2022). Aprendizaje basado en proyectos para fortalecer el proceso de enseñanza aprendizaje. https://dialnet.unirioja.es/servlet/articulo?codigo=9042457
+Vuorikari, R., Kluzer, S. y Punie, Y. (2022). *DigComp 2.2: The Digital Competence Framework for Citizens*. Oficina de Publicaciones de la Unión Europea. https://doi.org/10.2760/115376
+Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
+Wijnia, L., Noordzij, G., Arends, L. R., Rikers, R. M. J. P. y Loyens, S. M. M. (2024). The effects of problem-based, project-based, and case-based learning on students' motivation: A meta-analysis. *Educational Psychology Review, 36*, artículo 29. https://doi.org/10.1007/s10648-024-09864-3
+Zhang, L. y Ma, Y. (2023). A study of the impact of project-based learning on student learning effects: A meta-analysis study. *Frontiers in Psychology, 14*, artículo 1202728. https://doi.org/10.3389/fpsyg.2023.1202728
+Zhang, W., Guan, Y. y Hu, Z. (2024). The efficacy of project-based learning in enhancing computational thinking among students: A meta-analysis of 31 experiments and quasi-experiments. *Education and Information Technologies, 29*(11), 14513-14545. https://doi.org/10.1007/s10639-023-12392-2
+---
+Corrección de errores del Decreto 77/2023, de 30 de mayo, de establecimiento del currículo de Educación Básica e implantación en la Comunidad Autónoma de Euskadi. (2023). *Boletín Oficial del País Vasco*, núm. 144, de 31 de julio de 2023.
+Decreto 118/1998, de 23 de junio, de ordenación de la respuesta educativa al alumnado con necesidades educativas especiales, en el marco de una escuela comprensiva e integradora. (1998). *Boletín Oficial del País Vasco*, núm. 130, de 13 de julio de 1998.
+Decreto 130/2022, de 2 de noviembre, de impulso a la educación ambiental para la sostenibilidad en la Comunidad Autónoma del País Vasco. (2022). *Boletín Oficial del País Vasco*.
+Decreto 77/2023, de 30 de mayo, de establecimiento del currículo de Educación Básica e implantación en la Comunidad Autónoma de Euskadi. (2023). *Boletín Oficial del País Vasco*, núm. 109, de 9 de junio de 2023.
+Ley 17/2023, de 21 de diciembre, de Educación de la Comunidad Autónoma del País Vasco. (2023). *Boletín Oficial del País Vasco*, núm. 2, de 4 de enero de 2024.
+Ley Orgánica 2/2006, de 3 de mayo, de Educación. (2006). *Boletín Oficial del Estado*, núm. 106, 17158-17207. https://www.boe.es/eli/es/lo/2006/05/03/2
+Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales. (2018). *Boletín Oficial del Estado*, núm. 294, 119788-119857. https://www.boe.es/eli/es/lo/2018/12/05/3
+Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. (2020). *Boletín Oficial del Estado*, núm. 340, 122868-122953. https://www.boe.es/eli/es/lo/2020/12/29/3
+Orden de 22 de enero de 2024, del Consejero de Educación, por la que se regula la evaluación en Educación Infantil y la evaluación, la promoción y la titulación, en su caso, en Educación Básica y en Bachillerato. (2024). *Boletín Oficial del País Vasco*.
+Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria. (2022). *Boletín Oficial del Estado*, núm. 76, 41571-41789. https://www.boe.es/eli/es/rd/2022/03/29/217
