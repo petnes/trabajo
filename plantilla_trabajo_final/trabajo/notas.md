@@ -78,6 +78,7 @@ Los anexos siguen pasando de las 5-10 páginas que la guía recomienda (es una o
 - La guía dice "sin sangría francesa", pero la lista de referencias la conserva porque APA 7 la exige y la propia bibliografía de la guía docente la usa. Se entiende que la norma de la guía va por el cuerpo del texto.
 - Primera persona: CLAUDE.md la admite en las reflexiones y el seminario III pide evitarla. Por eso solo aparece en la reflexión final de las conclusiones.
 - La voz es la del autor del borrador (máster de Formación del Profesorado). No se ha usado el perfil de las preferencias generales, que corresponde a otra titulación.
+- Interlineado: el cuerpo, las viñetas y los títulos van a 1,5, como pide la guía. Las tablas, los títulos de tablas y figuras y la lista de referencias mantienen el interlineado sencillo que ya tenían en el borrador. Ponerlas a 1,5 añadiría casi dos páginas y el trabajo se acercaría demasiado al límite de 75.
 
 ## Dudas pendientes para revisar (no se han tocado)
 
